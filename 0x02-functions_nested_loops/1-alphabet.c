@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print alphabet - Make the alphadet
+ * print_alphabet - Make the alphadet
  *
  * Return:void
  */
